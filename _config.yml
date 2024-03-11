@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Elias Machairas"
 title_separator          : "-"
 name                     : &name "Elias"
-description              : &description "PhD Candidate at NKUA (Greece)"
+description              : &description "PhD Candidate at NKUA"
 url                      : https://eliasmach.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eliasmach/eliasmach.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "eliasmach"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Greece"
+  employer         : "National & Kapodistrian University of Athens (NKUA)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "eliasmach@di.uoa.gr" 
 
   # Academic websites
  # arxiv            : # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   #bitbucket        : # Username - Update with your username on the site
  # codepen          : # Username
  # dribbble         : # Username
-  github           : "academicpages"
+  github           : "eliasmach"
  # kaggle           : # Username  
  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
