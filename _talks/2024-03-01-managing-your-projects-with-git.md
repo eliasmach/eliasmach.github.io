@@ -7,5 +7,5 @@ date: 2024-03-01
 location: "Online-streaming"
 ---
 
-You can find the slides of the talk [here](http://eliasmach.github.io/files/branch_and_merge.pdf)
+You can find the slides of the talk here
 
