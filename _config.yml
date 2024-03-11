@@ -21,7 +21,7 @@ repository               : "eliasmach/eliasmach.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "eliasmach_picture.jpg"
+  avatar           : "/files/eliasmach_picture.jpg"
   name             : "eliasmach"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer/Hardware (FPGA) Engineer. Research on theoretical and applied Information Theory."
