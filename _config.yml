@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "eliasmach"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineer/FPGA Engineer. Research on theoretical and applied information theory"
+  bio              : "Software Engineer/Hardware (FPGA) Engineer. Research on theoretical and applied information theory"
   location         : "Greece"
-  employer         : "National & Kapodistrian Univ. of Athens (NKUA)"
-  uri              : # URL
+  employer         : "National and Kapodistrian Univ. of Athens (NKUA)"
+  uri              : https://www.di.uoa.gr/en # URL
   email            : "eliasmach@di.uoa.gr" 
 
   # Academic websites
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : my linkedin acount
+  linkedin         : elias-machairas-91b7a3a6
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
